@@ -1,7 +1,7 @@
 users:
 
-  justin:
-    fullname: Justin
+  ssg:
+    fullname: ssg
     uid: 1010
     shell: /bin/zsh
     password: <password-hash-here>
@@ -12,6 +12,6 @@ users:
       - plugdev
     ssh_auth:
       - ssh-rsa
-        AADAQABAAABAQCm/y7O2+i776EcoPaOM6CxPfsccfr3Yxfp3CeRunqIgpeuwgUAdUYRpWhcWgnmVwfRy9NuDCYD8f7IbLGn5b/ag0EqBjGOvxUIlVvErL7Rg2HqWYquNC7qPA915JLZph9R7uLNFsZY+UjgPdVZa/i8txVxSQ/Mgnt/4zY48/+eDXHzbi9RVE3bTMsnQzXE972zoJMwUuFlsEbJEOBDQopw5LbSFVh8EERpPSlmyd7l+5oI+Bj31/wf8bmTeh3gI0azShrtLU6zp9IipzJr5xwC4KpxsK5jE9uwxzikfuTYS66AJmV5DQfPQFDo6SPIkoo3bIq9dy/MO user@domain
+        ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC67gOkTwMM0DhHTkS1RYvRPw/bRDBRh0foT6QfQXQ9sNkN07Ge2nRsAr/KohIaYt72lt7grqNRCxUStBAZ8nfm5N+VZJ4naTHT8rEJ1xg7eV2nkGMrpCuEZs05K8xENTtHaq3IvZe028TSWUoVV+h5PfUQx89+x6BUUl2bWxX8TVkZeOOwqZtPjOYuP0ejkN4lMSRHdMDC1WFBonX00WtQPXCgSyqcB6pR//r621uvfv2F1u83jQKMxba7XfrAFNR6UnhATC16Vdl9iajY9UHzj5HgUEKYom49LB/CyOJAcmdNh8cb8ecVuNnbDouHpAr6TvkErad0TE48eixB9hCf root@minion.linuxgeekvideos.com
     user_files:
       enabled: true
